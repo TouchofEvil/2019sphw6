@@ -1,4 +1,5 @@
-# Repository for HW6-AttackLab, System Software, 2019.Fall
+# Repository for HW6-AttackLab
+System Software @ PNU (2019.Fall)
 
 Read the information below and create a file that identifies your student ID and name in the repository. 
 
